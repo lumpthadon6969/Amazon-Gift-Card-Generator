@@ -9,8 +9,8 @@ def g(choice):
         choice=choice-1
     return result
 print("How many codes to be genrated ?")
-number = input(">")
-print("")
+number = input(">")10 
+print("") Amazon 
 n = int(number)
 n = int(number)
 text = input("Type Amazon to get codes -")
